@@ -4,7 +4,7 @@ This repository contains a dataset of **coffee sales**, including details such a
 ## 📊 Dashboard Preview  
 Here’s a preview of the Coffee Sales Dashboard:  
 
-![Coffee Sales Dashboard](Dashboard.png)
+![Coffee Sales Dashboard](Dashboard.PNG)
 
 ## 📊 Key Features  
 - 📈 Sales trends analysis  

@@ -4,7 +4,7 @@ This repository contains a dataset of **coffee sales**, including details such a
 ## 📊 Dashboard Preview  
 Here’s a preview of the Coffee Sales Dashboard:  
 
-![Coffee Sales Dashboard](dashboard.png)
+![Coffee Sales Dashboard](Dashboard.png)
 
 ## 📊 Key Features  
 - 📈 Sales trends analysis  
@@ -22,8 +22,7 @@ The dataset includes the following columns:
 ## 🔍 Usage  
 This dataset can be used for:  
 - **Exploratory Data Analysis (EDA)**  
-- **Data Visualization (Matplotlib, Seaborn, Pandas, etc.)**  
-- **Sales Forecasting (Machine Learning models)**  
+- **Data Visualization (Matplotlib, Seaborn, Pandas, etc.)**   
 - **Business Decision-Making**  
 
 ## 🚀 Contributions  
@@ -31,5 +30,5 @@ Feel free to fork this repository, analyze the data, and share your findings!
 
 ---
 
-📌 **Author:** Your Name  
-📌 **License:** MIT (or specify your license)  
+📌 **Author:** Ahmed Butt  
+

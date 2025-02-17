@@ -1,5 +1,10 @@
 # Coffee Sales Data Analysis ☕📊
-This repository contains a dataset of **coffee sales**, including details such as product name, quantity sold, revenue, and sales location. The goal is to analyze sales trends, identify best-selling products, and gain business insights.  
+This repository contains a dataset of **coffee sales**, including details such as product name, quantity sold, revenue, and sales location. The goal is to analyze sales trends, identify best-selling products, and gain business insights. 
+
+## 📊 Dashboard Preview  
+Here’s a preview of the Coffee Sales Dashboard:  
+
+![Coffee Sales Dashboard](dashboard.png)
 
 ## 📊 Key Features  
 - 📈 Sales trends analysis  
